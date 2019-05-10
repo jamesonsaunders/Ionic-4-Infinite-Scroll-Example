@@ -7,4 +7,25 @@ import { Component } from '@angular/core';
 })
 export class HomePage {
 
+  items = [];
+  numTimesLeft = 5;
+
+  constructor() {
+    this.addMoreItems();
+  }
+
+  loadData(event) {
+    setTimeout(() => {
+      console.log('Done');
+      this.addMoreItems();
+      this.numTimesLeft -= 1;
+      event.target.complete();
+    }, 2000);
+  }
+
+  addMoreItems() {
+    for (let i=0; i<10; i++)
+      this.items.push(i);
+  }
+
 }
