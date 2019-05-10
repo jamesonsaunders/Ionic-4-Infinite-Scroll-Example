@@ -1,9 +1,9 @@
 # Ionic 4 Infinite Scroll Example
 
-This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Ionic 4 Infinite Scroll Tutorial](https://www.youtube.com/watch?v=KAWaMWSVNno) as well as the blog article [Ionic 4 Infinite Scroll Tutorial](https://blog.jamibot.com/ionic-4-infinite-scroll).
+This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Ionic 4 Infinite Scroll Tutorial](https://www.youtube.com/watch?v=M86HPj_YuXQ) as well as the blog article [Ionic 4 Infinite Scroll Tutorial](https://blog.jamibot.com/ionic-4-infinite-scroll).
 
 [![Ionic 4 Infinite Scroll
-Tutorial](https://img.youtube.com/vi/KAWaMWSVNno/maxresdefault.jpg)](https://www.youtube.com/watch?v=KAWaMWSVNno)
+Tutorial](https://img.youtube.com/vi/M86HPj_YuXQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=M86HPj_YuXQ)
 
 A complete demonstration of how to use all the the ionic infinite scroll component to load a potentially large amount of data piece by piece.
 
